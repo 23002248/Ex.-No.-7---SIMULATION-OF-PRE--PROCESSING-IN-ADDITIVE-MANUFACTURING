@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 15.11.2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -47,7 +47,7 @@
 
 
 ### Name: stephen raj.y
-### Register Number: 23002248
+### Register Number: 212223230217
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
